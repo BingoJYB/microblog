@@ -14,7 +14,8 @@ def index():
     user = {"username": "Miguel"}
     posts = [
         {"author": {"username": "John"}, "body": "flask day in Portland!"},
-        {"author": {"username": "Susan"}, "body": "The Avengers movie was so cool!"},
+        {"author": {"username": "Susan"}, "body": "The Avengers\
+             movie was so cool!"},
     ]
     return render_template("index.html", title="Home", posts=posts)
 

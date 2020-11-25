@@ -4,6 +4,7 @@ astroid==2.4.0
 attrs==19.3.0
 autopep8==1.5.4
 black==19.10b0
+blinker==1.4
 CacheControl==0.12.6
 certifi==2019.11.28
 chardet==3.0.4
@@ -16,6 +17,7 @@ entrypoints==0.3
 flake8==3.8.0
 Flask==1.1.1
 Flask-Login==0.4.1
+Flask-Mail==0.9.1
 Flask-Migrate==2.5.2
 Flask-SQLAlchemy==2.4.1
 Flask-WTF==0.14.2
@@ -37,6 +39,7 @@ pep517==0.8.2
 progress==1.5
 pycodestyle==2.6.0
 pyflakes==2.2.0
+PyJWT==1.7.1
 pylint==2.6.0
 pylint-flask==0.6
 pylint-plugin-utils==0.6

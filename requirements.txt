@@ -46,7 +46,7 @@ pep517==0.8.2
 progress==1.5
 pycodestyle==2.6.0
 pyflakes==2.2.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint==2.6.0
 pylint-flask==0.6
 pylint-plugin-utils==0.6
